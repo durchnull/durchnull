@@ -9,9 +9,13 @@ A repo immune system for [Claude Code](https://code.claude.com): slash-command
 where reality has drifted.
 
 **Status:** in development, not yet installable.
-👉 [Preview & sample run dashboard](https://durchnull.github.io/heal-suite/)
+👉 [Preview & sample run dashboard](https://durchnull.github.io/heal-suite/) · [repo](https://github.com/durchnull/heal-suite)
 
 ## 🥗 Macrop
 
-A nutrition planner. Currently in development;
-it's also the production codebase the Heal Suite is dogfooded on.
+A nutrition planner, currently in development — it's also the production
+codebase the Heal Suite is dogfooded on.
+
+---
+
+📫 Available for freelance work → [durchnull.de](https://durchnull.de)
