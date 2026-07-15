@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**durchnull/durchnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance full-stack engineer in Berlin — TypeScript, React Native, Laravel.
 
-Here are some ideas to get you started:
+## 🩹 The Heal Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A repo immune system for [Claude Code](https://code.claude.com): slash-command
+"healers" that audit a project against its own committed standards and report
+where reality has drifted.
+
+**Status:** in development, not yet installable.
+👉 [Preview & sample run dashboard](https://durchnull.github.io/heal-suite/)
+
+## 🥗 Macrop
+
+A nutrition planner. Currently in development;
+it's also the production codebase the Heal Suite is dogfooded on.
