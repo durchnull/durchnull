@@ -24,7 +24,7 @@ meal or change an ingredient, your daily totals and shopping list just stay corr
 
 **A repo that audits, fixes and hardens itself.**
 
-[![A heal run dashboard: health score 90, 62 findings across 3 high, 27 medium and 32 low, findings burden 44.6 down from 67.6, 20 preventions, 41.9M tokens across 14 healers, and a per-healer table of findings, durations and backlog headings.](assets/heal-run.png)](https://durchnull.github.io/heal-suite/demo-run.html)
+[![A heal run dashboard: health score 90, 62 findings across 3 high, 27 medium and 32 low, findings burden 44.6 down from 67.6, 20 preventions, 41.9M tokens across 14 healers, and a per-healer table of findings, durations and backlog headings.](assets/heal-run.webp)](https://durchnull.github.io/heal-suite/demo-run.html)
 
 18 healers check the code — architecture, security, tests, docs, speed and more. They run at
 once and put what they find in one backlog. The mechanical fixes go out as small PRs. Problems
