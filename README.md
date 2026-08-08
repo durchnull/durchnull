@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm David
 
 Freelance full-stack engineer in Berlin. I code agentically: I build [Macrop](https://macrop.de),
 a nutrition planner, and six open-source plugins for [Claude Code](https://code.claude.com)
@@ -16,7 +16,9 @@ that keep its codebase honest.
 [![Macrop's sign-in screen: an illustrated pattern of carrots, tomatoes, garlic and herbs behind a frosted card reading "Macrop — Deine Woche, auf Kurs."](assets/macrop.webp)](https://macrop.de)
 
 Every calorie and macro is calculated from the ingredients, never typed in — so when you swap a
-meal or change an ingredient, your daily totals and shopping list just stay correct.
+meal or change an ingredient, your daily totals and shopping list just stay correct. Its 147
+staple ingredients take their macros from the German national food database, one verified code
+per row.
 
 **[Try it →](https://macrop.de)** — public beta, sign-ups approved by hand.
 
