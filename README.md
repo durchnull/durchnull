@@ -1,6 +1,6 @@
 # Hi, I'm David
 
-Freelance full-stack engineer in Berlin. I code agentically: I build [Macrop](https://macrop.de), a nutrition planner, and six open-source plugins for [Claude Code](https://code.claude.com) that keep your codebase honest.
+Freelance full-stack engineer in Berlin. I code agentically: I build [Macrop](https://macrop.de), a nutrition planner, and six open-source plugins for [Claude Code](https://code.claude.com) — one that audits and fixes a repo, five for the work around it.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
@@ -9,7 +9,7 @@ Freelance full-stack engineer in Berlin. I code agentically: I build [Macrop](ht
 
 ## Macrop — a nutrition web app
 
-<a href="https://macrop.de"><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/macrop.webp"><source srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/macrop.webp 4x"><img src="assets/macrop.webp" align="right" alt="Macrop's sign-in screen: an illustrated pattern of carrots, tomatoes, garlic and herbs behind a frosted card reading &quot;Macrop — Deine Woche, auf Kurs.&quot;"></picture></a>
+<a href="https://macrop.de"><picture><source media="(max-width: 1100px)" srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/macrop.webp"><source srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/macrop.webp 4x"><img src="assets/macrop.webp" align="right" alt="Macrop's sign-in screen: an illustrated pattern of carrots, tomatoes, garlic and herbs behind a frosted card reading &quot;Macrop — Deine Woche, auf Kurs.&quot;"></picture></a>
 
 **A weekly meal planner where the numbers can't go wrong.**
 
@@ -21,7 +21,7 @@ Every calorie and macro is calculated from the ingredients, never typed in — s
 
 ## The Heal Suite — a Claude Code plugin
 
-<a href="https://durchnull.github.io/heal-suite/demo-run.html"><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/heal-run.webp"><source srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/heal-run.webp 4.4x"><img src="assets/heal-run.webp" align="right" alt="A heal run dashboard: health score 90, 62 findings across 3 high, 27 medium and 32 low, findings burden 44.6 down from 67.6, 20 preventions, 41.9M tokens across 14 healers, and a per-healer table of findings, durations and backlog headings."></picture></a>
+<a href="https://durchnull.github.io/heal-suite/demo-run.html"><picture><source media="(max-width: 1100px)" srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/heal-run.webp"><source srcset="https://raw.githubusercontent.com/durchnull/durchnull/main/assets/heal-run.webp 4.4x"><img src="assets/heal-run.webp" align="right" alt="A heal run dashboard: health score 90, 62 findings across 3 high, 27 medium and 32 low, findings burden 44.6 down from 67.6, 20 preventions, 41.9M tokens across 14 healers, and a per-healer table of findings, durations and backlog headings."></picture></a>
 
 **A repo that audits, fixes and hardens itself.**
 
@@ -36,7 +36,7 @@ Every calorie and macro is calculated from the ingredients, never typed in — s
 /plugin install heal@durchnull
 ```
 
-## Five more plugins
+## Five more Claude Code plugins
 
 | Plugin                                              | What it does                                                                                                                       |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
